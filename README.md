@@ -1,1 +1,2 @@
-# final_lab
+# pipeline-devops
+Pipeline shared libraries example
